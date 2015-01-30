@@ -216,6 +216,7 @@
 				-ms-transform: translate3d(0,0,0);
 				transform: translate3d(0,0,0);
 				display: inline-block;
+				color: rgb(115,79,70);
 				height: 5.35em;
 				line-height: 5.885em;
 				opacity: 0;
