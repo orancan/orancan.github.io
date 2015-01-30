@@ -1,4 +1,4 @@
-TEMPLATE FROM :
+TEMPLATE BY :
 Aerial by HTML5 UP
 html5up.net | @n33co
 
