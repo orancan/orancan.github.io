@@ -104,8 +104,8 @@
 		-o-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-		/* Set your background with this */
-		background: #348cb2 url("https://i.imgur.com/xJADTgX.jpg") bottom left;
+		/* Set your background with this url("https://i.imgur.com/xJADTgX.jpg") bottom left */
+		background: #ffc107 ;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
